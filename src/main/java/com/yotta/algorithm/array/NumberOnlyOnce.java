@@ -1,4 +1,4 @@
-package array;
+package com.yotta.algorithm.array;
 
 public class NumberOnlyOnce {
     
